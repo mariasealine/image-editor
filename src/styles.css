@@ -45,4 +45,15 @@
     padding: 30px;
 }
 
+.effect-div {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    top: 40%;
+}
+
+.effect-button {
+    margin: 20px;
+}
 
